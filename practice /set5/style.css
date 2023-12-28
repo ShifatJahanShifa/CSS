@@ -1,0 +1,10 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-image: url(cat.jpg);
+    background-size: cover; 
+    background-color: pink; 
+    position: fixed;
+    right: 0%;
+    top: 50px;
+}
